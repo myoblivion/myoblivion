@@ -3,7 +3,7 @@
 Hello! I'm a tech enthusiast with a deep passion for developing innovative digital solutions. My journey in technology has blessed me with a versatile skill set, enabling me to address modern challenges across various domains.
 
 ## 🌐 Web Development
-- **Technologies**: PHP, React.js, HTML5, CSS/SCSS
+- **Technologies**: PHP, React.js, HTML5, CSS/SCSS, WordPress, .Net, and C#
 - **Focus**: Crafting sleek and dynamic user interfaces that enhance user experience.
 
 ## 🔧 Backend Development
@@ -29,6 +29,6 @@ Hello! I'm a tech enthusiast with a deep passion for developing innovative digit
 Whether it's creating intuitive user experiences, optimizing backend operations, or exploring new technologies, I am continually driven by the challenge of the ever-evolving tech landscape. I aim for excellence in every project, striving to make a significant impact through my work.
 
 ## 🤝 Let's Connect!
-Feel free to send me a direct message or invite me to your job post on my [Website](https://www.francelee.co). I'm eager to hear about your challenges and discuss how I can help you. Let's embark on transformative journeys together!
+Feel free to send me a direct message or invite me to your job post on my [website](https://www.francelee.co). I'm eager to hear about your challenges and discuss how I can help you. Let's embark on transformative journeys together!
 
 ---
