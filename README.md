@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
-https://camo.githubusercontent.com/f50234cb9f1be4beead6b35d3f6ec558561a79c263728818838447aa56cb5401/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966
+
+![Alt Text](https://camo.githubusercontent.com/f50234cb9f1be4beead6b35d3f6ec558561a79c263728818838447aa56cb5401/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966)
 
 Hello! I'm a tech enthusiast with a deep passion for developing innovative digital solutions. My journey in technology has blessed me with a versatile skill set, enabling me to address modern challenges across various domains.
 
